@@ -18,6 +18,14 @@ The newest installer is under [Releases](https://github.com/BlocMod/releases/rel
 
 BlocMod looks for a newer version when it starts, and **Help › Check for Updates** looks straight away. Beta builds stop exporting two weeks after they are released; updating keeps you going. Your projects always open and save.
 
+## Free during the beta
+
+BlocMod is free while it is in beta. Once the beta ends, BlocMod will be sold as a yearly
+subscription, with a free demo that opens and saves projects but does not export. Free builds
+will then stop exporting within two weeks. Your projects stay yours either way.
+
+By installing BlocMod you agree to the [beta terms](BETA-TERMS.md).
+
 ## Problems or ideas
 
 Join the BlocMod Discord, where bugs, ideas and builds are shared: [discord.gg/egPb76Hp8z](https://discord.gg/egPb76Hp8z)
