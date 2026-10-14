@@ -20,7 +20,9 @@ BlocMod looks for a newer version when it starts, and **Help › Check for Updat
 
 ## Problems or ideas
 
-support@blocmod.app
+Join the BlocMod Discord, where bugs, ideas and builds are shared: [discord.gg/egPb76Hp8z](https://discord.gg/egPb76Hp8z)
+
+Or email support@blocmod.app
 
 ---
 
