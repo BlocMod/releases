@@ -1,0 +1,11 @@
+{
+  "version": "0.1.0",
+  "notes": "The first BlocMod beta. Thank you for testing it.\n\n- Build with the feel of Blender: orbit, select, move, rotate and scale, push/pull, shapes, sculpt and paint, with Minecraft's own textures and lighting read from your copy of Minecraft.\n- Objects, linked copies, collections, and a Library of modules to place.\n- Modifiers, among them Array, Mirror, Boolean and Path Deform.\n- Export to .schem, .litematic, .nbt and Axiom blueprints, and as a data pack whose pieces Minecraft joins into structures.\n- Villagers, with their work and trades.\n\nFound a bug? Post it in #bug-reports, or write to support@blocmod.app.",
+  "pub_date": "2026-10-14T16:42:00.946Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRM05taDY4QU9UWWFvOWVQVFprNjUrREhHTmJxdnFkVE5mSGdQdGFqZVVlN1ROeEp3YU5iQUVrTitEMG9SRzlQZW5TK1k3UnVNZGdsNHgrZHZtUEcwZXNGRVJpanRBY0FvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxOTk2MTIwCWZpbGU6QmxvY01vZF8wLjEuMF94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjAKZmZKR2Y2aHJmMnZGd2NaNkZ6MmdSaXdiSWN2ektnRTdHVVp2d2pXcXd3ZFBOSk5DSmd3b0pUaGJSWHNkR2x3ZEpRUGVpc01uUTdrQ0hSZTRiR2VIQ1E9PQo=",
+      "url": "https://github.com/BlocMod/releases/releases/download/v0.1.0/BlocMod-0.1.0-setup.exe"
+    }
+  }
+}
