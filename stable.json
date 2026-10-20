@@ -1,11 +1,11 @@
 {
-  "version": "0.1.0",
-  "notes": "The first BlocMod beta. Thank you for testing it.\n\n- Build with the feel of Blender: orbit, select, move, rotate and scale, push/pull, shapes, sculpt and paint, with Minecraft's own textures and lighting read from your copy of Minecraft.\n- Objects, linked copies, collections, and a Library of modules to place.\n- Modifiers, among them Array, Mirror, Boolean and Path Deform.\n- Export to .schem, .litematic, .nbt and Axiom blueprints, and as a data pack whose pieces Minecraft joins into structures.\n- Villagers, with their work and trades.\n\nFound a bug? Post it in #bug-reports, or write to support@blocmod.app.",
-  "pub_date": "2026-10-14T16:42:00.946Z",
+  "version": "0.1.1",
+  "notes": "Fixes, and two more weeks of exporting. Thank you for testing.\n\n- A mirrored corner stair turns its corner the right way.\n- Local view shows what an object's modifiers make.\n- R, then X or Z, undoes only its own turn.\n- Changes made after a save are shown as unsaved.\n- Very large scenes: more than 65,535 objects, and a clear message past 65,536 kinds of block.\n- Light in big builds stays within its memory budget.\n- NBT files with unusual text read correctly; a damaged file is refused.\n- The stonecutter's saw is grey, not green.\n\nFound a bug? Post it in #bug-reports, or write to support@blocmod.app.",
+  "pub_date": "2026-10-20T08:42:21.279Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRM05taDY4QU9UWWFvOWVQVFprNjUrREhHTmJxdnFkVE5mSGdQdGFqZVVlN1ROeEp3YU5iQUVrTitEMG9SRzlQZW5TK1k3UnVNZGdsNHgrZHZtUEcwZXNGRVJpanRBY0FvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxOTk2MTIwCWZpbGU6QmxvY01vZF8wLjEuMF94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjAKZmZKR2Y2aHJmMnZGd2NaNkZ6MmdSaXdiSWN2ektnRTdHVVp2d2pXcXd3ZFBOSk5DSmd3b0pUaGJSWHNkR2x3ZEpRUGVpc01uUTdrQ0hSZTRiR2VIQ1E9PQo=",
-      "url": "https://github.com/BlocMod/releases/releases/download/v0.1.0/BlocMod-0.1.0-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRM05taDY4QU9UWVR5SHRmbklid0wydGlDQTJkMFpSOUtpVW9yMm5SSDF4Z3hxQlcwZ2JObENkWStLMHpob0tTLzZlcHF6VnBRTmw0MjlqQm1BaWwzcDNnaFFSMi9pL0FBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNDg1NzQwCWZpbGU6QmxvY01vZF8wLjEuMV94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjEKajdmRlZWM2hpZlBhSlBqaHFZVWpuK2ZpczFjVElFVG1OVzZPc1M4blFHZXRtY0JleTdOU2VyVVBzQ1lvNEZ4V2dvNDhTRFQzTFN6U1hzNkZaWnhoQXc9PQo=",
+      "url": "https://github.com/BlocMod/releases/releases/download/v0.1.1/BlocMod-0.1.1-setup.exe"
     }
   }
 }
