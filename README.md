@@ -12,7 +12,7 @@ The newest installer is under [Releases](https://github.com/BlocMod/releases/rel
 ## Before you install
 
 - BlocMod reads Minecraft's textures and models from your own copy of Minecraft: Java Edition. Nothing from Minecraft is included. It is made for Minecraft 26.3.
-- The installer is not signed yet, so Windows may say "Windows protected your PC". Choose **More info**, then **Run anyway**.
+- From 0.3.0, the installer is signed by **AetherCarlyle Ltd**, the company that makes BlocMod. While BlocMod is new, Windows may still say "Windows protected your PC": choose **More info**, check that the publisher reads AetherCarlyle Ltd, then choose **Run anyway**. The warning fades as more people install it.
 
 ## Updates
 
@@ -36,4 +36,4 @@ Or email support@blocmod.app
 
 Not an official Minecraft product. Not approved by or associated with Mojang or Microsoft.
 
-Published by BlocMod · [blocmod.app](https://blocmod.app)
+Published by AetherCarlyle Ltd, registered in England and Wales, company number 17541721. Registered office: 128 City Road, London, EC1V 2NX.
