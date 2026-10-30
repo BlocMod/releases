@@ -1,6 +1,6 @@
 # BlocMod
 
-A Minecraft block modeller with the feel of Blender, for Windows.
+A Minecraft block modeller with the feel of Blender, for Windows. Website: [blocmod.app](https://blocmod.app)
 
 ## Download
 
@@ -37,4 +37,4 @@ Or email support@blocmod.app
 
 Not an official Minecraft product. Not approved by or associated with Mojang or Microsoft.
 
-Published by AetherCarlyle Ltd, registered in England and Wales, company number 17541721. Registered office: 128 City Road, London, EC1V 2NX.
+Published by AetherCarlyle Ltd, registered in England and Wales, company number 17541721. Registered office: 128 City Road, London, EC1V 2NX. Website: [blocmod.app](https://blocmod.app)
